@@ -2,6 +2,8 @@
 
 iValidate is a simple web application that allows users to validate email addresses. It checks whether an email is deliverable, properly formatted, and provides additional metadata about the email address out of the box. 
 
+
+Live-website link: https://tangerine-marzipan-4adde7.netlify.app/
 ## Features
 
 - **Real-time Email Validation**: Check if an email address actually exists.
